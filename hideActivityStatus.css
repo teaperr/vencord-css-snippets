@@ -1,3 +1,13 @@
+// game and song statuses
 .textWithIconContainer_c9d15c {
+    display: none;
+}
+
+// activity section on profiles
+.section_bf424d {
+    display: none;
+}
+
+.card__39ec2 {
     display: none;
 }
