@@ -1,18 +1,3 @@
-.activityStatusText__972a0 {
-    color: inherit;
-    display: none;
-}
-
-.icon_c9d15c {
-    flex-shrink: 0;
-    height: var(--custom-activity-status-icon-size);
-    width: var(--custom-activity-status-icon-size);
-    display: none;
-}
-
-:where(.section_bf424d) {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
+.textWithIconContainer_c9d15c {
     display: none;
 }
